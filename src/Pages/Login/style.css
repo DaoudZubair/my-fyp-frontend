@@ -1,0 +1,106 @@
+/* 
+.check{
+    width: 2%;
+  }
+  
+  .login-l {
+    padding: 15px 50px;
+    font-weight: 600;
+    font-size: 16px;
+    color: #fff;
+    background-color: #00308F;
+    border-radius: 50px 0 0 50px;
+    border: 2px solid #00308F;
+  }
+  
+  .login-r {
+    padding: 15px 50px;
+    font-weight: 600;
+    font-size: 16px;
+    color: #00308F;
+    background-color: #ffffff;
+    border-radius: 0 50px 50px 0;
+    border: 2px solid #00308F;
+    cursor: pointer;
+  }
+  
+  .reg-l {
+    padding: 15px 50px;
+    font-weight: 600;
+    font-size: 16px;
+    color: #00308F;
+    background-color: #ffffff;
+    border-radius: 50px 0 0 50px;
+    border: 2px solid #00308F;
+    cursor: pointer;
+  }
+  
+  .reg-r {
+    padding: 15px 50px;
+    font-weight: 600;
+    font-size: 16px;
+    color: #fff;
+    background-color: #00308F;
+    border-radius: 0 50px 50px 0;
+    border: 2px solid #00308F;
+  }
+  
+  form{
+    text-align: center;
+  }
+  
+  .checkbox{
+    display: inline-block;
+  }
+  
+  input {
+    width: 25%;
+    padding: 15px 10px;
+    border: 1px solid;
+    font-size: 16px;
+    color: #00308F;
+    border-radius: 10px;
+    outline: none;
+  }
+  
+  input:focus-visible {
+    border: 2px solid #00308F;
+  }
+  
+  .reg-left {
+    width: 8% !important;
+  }
+  
+  .reg-right {
+    margin-left: 6px;
+    width: 16.5%;
+    padding: 15px 10px;
+    border: 1px solid;
+    font-size: 16px;
+    color: #00308F;
+    border-radius: 10px;
+    outline: none;
+  }
+  
+  .reg-right:focus-visible {
+    border: 2px solid #00308F;
+  }
+  
+  
+  form button{
+    padding: 15px 50px;
+    font-weight: 600;
+    font-size: 16px;
+    color: #fff;
+    background-color: #00308F;
+    transition: 0.3s ease-in;
+    border-radius: 10px;
+  }
+  
+  form button:hover {
+    color: #0f0f0f;
+    background-color: #fff;
+    border: 2px solid #00308F;
+  }
+  
+   */
